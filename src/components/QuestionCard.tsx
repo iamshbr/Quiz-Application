@@ -13,7 +13,7 @@ const QuestionCard: React.FunctionComponent<QuestionCardProps> = ({ question, an
 
         <div className="space-y-5">
           {answers &&
-            answers.map((answer, index) => {
+            answers.map((answer) => {
               return (
                 <button
                   value={answer}

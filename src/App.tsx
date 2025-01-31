@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { QuestionCard } from "./components";
 import getQuizData from "./api";
 import { AnswerObject, Difficulty, QuestionState } from "./types";

@@ -1,5 +1,4 @@
-import React, { useState, useEffect } from "react";
-import { Difficulty, ResponseData, QuestionState, Question } from "./types";
+import { Difficulty, ResponseData, Question } from "./types";
 import shuffleArray from "./util";
 
 async function getQuizData(amount: number, difficulty: Difficulty) {
