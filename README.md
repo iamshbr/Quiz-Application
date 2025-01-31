@@ -16,4 +16,4 @@ This project uses the **Open Trivia Database** to fetch quiz questions.
 
 ## 🌍 Live Demo
 
-🔗 **[Quiz App Live](https://your-github-username.github.io/quiz-app/)**
+🔗 **[Quiz App Live](https://iamshbr.github.io/Quiz-Application/)**
